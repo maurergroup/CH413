@@ -8,7 +8,7 @@ Methodological challenges: a) Enabling molecular simulations of â€œrare eventsâ€
 
 Application domain: a) Crystal nucleation and growth; b) Drug discovery
 
-## Potential energy surfaces 
+## Potential energy surfaces (L. Bartok-Partay)
 Methodological challenges: Description and properties of the potential energy surface; exploring the landscape: sampling techniques for finding minima, transition states and thermodynamic properties; structure prediction.
 
 Application domain: a) clusters for catalysis b) molecular crystals for pharmaceuticals.
