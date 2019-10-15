@@ -8,19 +8,19 @@ from rdkit.Chem import Descriptors
 from rdkit.Chem.rdmolops import RDKFingerprint
 from rdkit.Chem import AllChem
 from rdkit.Chem.Crippen import MolLogP,MolMR
-from sklearn import cross_validation
+#from sklearn import cross_validation
 from sklearn.gaussian_process import GaussianProcessRegressor
 from sklearn.gaussian_process.kernels import RBF, ConstantKernel as C
 from sklearn.gaussian_process.kernels import Matern, WhiteKernel, ConstantKernel
 #from sklearn.model_selection import GridSearchCV
 import scipy as sp
 from sklearn.base import BaseEstimator
-from sklearn.grid_search import GridSearchCV
+#from sklearn.grid_search import GridSearchCV
 import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import scale,normalize
-import networkx as nx
+#import networkx as nx
 
 ##############################
 ## Functions to import data ##
