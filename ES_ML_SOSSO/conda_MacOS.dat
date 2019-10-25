@@ -1,0 +1,7 @@
+conda create -c rdkit -n CH413 rdkit
+conda activate CH413
+conda install scikit-learn=0.19.0
+conda install jupyter
+conda install matplotlib
+conda install seaborn
+conda install networkx
