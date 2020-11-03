@@ -13,7 +13,7 @@ Methodological challenges: Description and properties of the potential energy su
 
 Application domain: a) clusters for catalysis b) molecular crystals for pharmaceuticals.
 
-## Density functional theory and materials modelling (R. J. Maurer)
+## Density functional theory and materials modelling (B. Karasulu)
 Methodological challenges: Achieving chemical accuracy for interactions between molecules, and between molecules and surfaces; enabling computationally efficient evaluation of structural, thermodynamic, and spectroscopic materials properties in the mesoscopic regime
 
 Application domain: (a) Hybrid and composite materials prediction, (b) Heterogeneous photo- and electrocatalysis.
